@@ -1,0 +1,29 @@
+{
+    "CommonAdjectives": [
+      "good", "new", "first", "last", "long", "great", "little", "own", "other", "old",
+      "right", "big", "high", "different", "small", "large", "next", "early", "young", "important",
+      "few", "public", "bad", "able", "general", "specific", "certain", "free", "open", "whole",
+      "short", "easy", "strong", "special", "clear", "recent", "late", "single", "medical", "central",
+      "common", "poor", "major", "happy", "serious", "ready", "environmental", "financial", "blue", "federal",
+      "necessary", "military", "original", "successful", "sufficient", "electrical", "expensive", "academic", "aware", "additional",
+      "available", "comfortable", "traditional", "cultural", "primary", "professional", "international", "useful", "historical", "effective",
+      "similar", "psychological", "reasonable", "accurate", "difficult", "administrative", "critical", "unable", "efficient", "interesting",
+      "legal", "responsible", "residential", "widespread", "spiritual", "cute", "civil", "detailed", "valuable", "popular",
+      "technical", "typical", "competitive", "appropriate", "private", "essential", "physical", "remarkable", "temporary", "reliable",
+      "quiet", "loud", "tall", "short", "wide", "narrow", "fat", "thin", "strong", "weak",
+      "soft", "hard", "bright", "dark", "hot", "cold", "warm", "cool", "dry", "wet",
+      "fast", "slow", "early", "late", "modern", "ancient", "simple", "complex", "clear", "confusing",
+      "honest", "dishonest", "friendly", "hostile", "polite", "rude", "kind", "mean", "generous", "greedy",
+      "brave", "cowardly", "funny", "serious", "smart", "stupid", "lazy", "active", "quiet", "noisy",
+      "safe", "dangerous", "clean", "dirty", "rich", "poor", "busy", "empty", "beautiful", "ugly",
+      "famous", "unknown", "visible", "invisible", "loyal", "disloyal", "correct", "wrong", "friendly", "unfriendly",
+      "attractive", "unattractive", "helpful", "unhelpful", "calm", "anxious", "generous", "stingy", "grateful", "thankful",
+      "curious", "bored", "tired", "energetic", "hungry", "thirsty", "creative", "logical", "organized", "messy",
+      "confident", "insecure", "optimistic", "pessimistic", "realistic", "idealistic", "dependent", "independent", "fun", "boring",
+      "basic", "advanced", "lucky", "unlucky", "truthful", "fake", "precise", "approximate", "intelligent", "ignorant",
+      "loose", "tight", "sharp", "dull", "kind", "cruel", "respectful", "disrespectful", "neat", "sloppy",
+      "popular", "unpopular", "frequent", "rare", "temporary", "permanent", "legal", "illegal", "formal", "informal",
+      "trustworthy", "untrustworthy", "emotional", "rational", "supportive", "distant", "sweet", "sour", "spicy", "bland"
+    ]
+  }
+  
