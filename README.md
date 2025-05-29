@@ -23,53 +23,53 @@
 
         ### WordNet
         - good: 12
-- dim: 10
-- fresh: 8
-- free: 8
-- strong: 8
-- sharp: 8
-- new: 7
-- keen: 7
-- slight: 7
-- small: 7
-
-        ### LLM
-        - clear: 18
-- paramount: 17
-- sharp: 16
-- notable: 16
-- modest: 14
-- preeminent: 14
-- insignificant: 13
-- reasonable: 13
-- significant: 13
-- small: 13
-
-        ## 3. Top 10 Words by Clustering Coefficient
-
-        ### WordNet
-        - adept: 1.0000
-- inaugural: 1.0000
-- maiden: 1.0000
-- final: 1.0000
-- terminal: 1.0000
-- different: 1.0000
-- dissimilar: 1.0000
-- unlike: 1.0000
-- minor: 1.0000
-- humble: 1.0000
-
-        ### LLM
-        - perplexing: 1.0000
-- elementary: 1.0000
-- delusive: 1.0000
-- thirsty: 1.0000
-- promising: 1.0000
-- licit: 1.0000
-- frosty: 1.0000
-- grimy: 1.0000
-- unparalleled: 1.0000
-- mistaken: 1.0000
+        - dim: 10
+        - fresh: 8
+        - free: 8
+        - strong: 8
+        - sharp: 8
+        - new: 7
+        - keen: 7
+        - slight: 7
+        - small: 7
+        
+                ### LLM
+                - clear: 18
+        - paramount: 17
+        - sharp: 16
+        - notable: 16
+        - modest: 14
+        - preeminent: 14
+        - insignificant: 13
+        - reasonable: 13
+        - significant: 13
+        - small: 13
+        
+                ## 3. Top 10 Words by Clustering Coefficient
+        
+                ### WordNet
+                - adept: 1.0000
+        - inaugural: 1.0000
+        - maiden: 1.0000
+        - final: 1.0000
+        - terminal: 1.0000
+        - different: 1.0000
+        - dissimilar: 1.0000
+        - unlike: 1.0000
+        - minor: 1.0000
+        - humble: 1.0000
+        
+                ### LLM
+                - perplexing: 1.0000
+        - elementary: 1.0000
+        - delusive: 1.0000
+        - thirsty: 1.0000
+        - promising: 1.0000
+        - licit: 1.0000
+        - frosty: 1.0000
+        - grimy: 1.0000
+        - unparalleled: 1.0000
+        - mistaken: 1.0000
 
         ## 4. Key Findings
 
@@ -78,9 +78,10 @@
         3. The top hub words differ significantly:
         - WordNet prioritizes: good, dim, fresh
         - LLM prioritizes: clear, paramount, sharp
-        4. This suggests fundamentally different organizing principles: dimensional attributes (WordNet) vs. evaluative/affective qualities (LLM) ?
+        4. This suggests fundamentally different organizing principles:
+         * WordNet tends to prioritize synonyms that are more traditional and widely accepted, such as good, dim, and fresh.
+
+         * The LLM, on the other hand, favors synonyms that can be more contextually nuanced or expressive, like clear, paramount, and sharp.
 
         ## 5. Visualizations
 
-        Visualizations of word neighborhoods and degree distributions have been saved as image files.
-        
