@@ -84,4 +84,4 @@
          * The LLM, on the other hand, favors synonyms that can be more contextually nuanced or expressive, like clear, paramount, and sharp.
 
         ## 5. Visualizations
-
+        ![Alt text](figures/happy_neighborhood_comparison.eps) 
