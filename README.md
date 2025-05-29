@@ -3,7 +3,6 @@
 ## Synonym Networks in WordNet and LLMs: A Comparative Analysis Perspective
 
         ## 1. Network Properties
-
         | Property | WordNet | LLM |
         |----------|---------|-----|
         | Nodes | 873.0 | 916.0 |
@@ -84,4 +83,4 @@
          * The LLM, on the other hand, favors synonyms that can be more contextually nuanced or expressive, like clear, paramount, and sharp.
 
         ## 5. Visualizations
-        ![Alt text](figures/happy_neighborhood_comparison.eps) 
+        ![alt text](figures/happy_neighborhood_comparison.png)
